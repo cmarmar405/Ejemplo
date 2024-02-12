@@ -1,0 +1,6 @@
+Fich1 > fich1.txt
+
+
+git commit -m Creamos fich1.txtx y fixh2.txt
+
+echo Fich1

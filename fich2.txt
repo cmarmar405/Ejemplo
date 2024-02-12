@@ -1,0 +1,2 @@
+Fich1 > fich1.txt
+echo Fich2
